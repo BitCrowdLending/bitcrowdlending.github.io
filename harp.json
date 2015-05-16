@@ -1,0 +1,11 @@
+{
+    "globals": {
+        "site": {
+            "title": "CrowdBit",
+            "css": "css/",
+            "script": "script/",
+            "image": "images/",
+            "bower": "components/"
+        }
+    }
+}

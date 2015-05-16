@@ -1,0 +1,50 @@
+{
+    "index": {
+        "site_url": "/"
+    },
+    "about": {
+        "about": {
+            "title": "Title",
+            "description": "P2P Bitcoin lending can be insecure and unstable."
+        },
+        "feature1": {
+            "title": "Title",
+            "description": "CrowdBit is the future of Bitcoin lending and investments."
+        },
+        "feature2": {
+            "title": "Title",
+            "description": "We are developing a secure and reliable platform that will allow confident lending and trading of Bitcoin."
+        },
+        "feature3": {
+            "title": "Title",
+            "description": "We are marketing Bitcoin users who are seeking pooled investments, insurance investments, and in-house escrow accounts through bitcoin."
+        },
+        "highlight1": {
+            "title": "Title",
+            "description": "We will blow our competition away with our focus on enhanced ID verification, superior rating system, and additional safety for investors, all while providing lower fees than others."
+        },
+        "highlight2": {
+            "title": "Tile",
+            "description": "Our team will also develop additional features and services, like crypto exchange."
+        }
+    },
+    "team": {
+        "title": "Team",
+        "member": {
+            "jose": "Jose Carlos",
+            "jeff": "Jeff",
+            "thomas": "Thomas",
+            "patrick": "Patrick",
+            "cesar": "Cesar"
+        }
+    },
+    "footer": {
+        "title": "Newsletter",
+        "receive_news": "Receive Notifications",
+        "form": {
+            "email_placeholder": "email",
+            "button_send": "Send"
+        },
+        "rights": "(c) CrowdBit 2015. All Rights Reserved."
+    }
+}

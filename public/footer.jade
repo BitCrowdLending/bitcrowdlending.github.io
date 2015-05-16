@@ -1,0 +1,31 @@
+footer#footer
+  .container
+    span#scroll-back.navegation.themed
+      span.icon-circle.themed--background
+        i.mdi.mdi-arrow-up
+    .color--gray-background
+      h1 #{ public._data.footer.title }
+      h3 #{ public._data.footer.receive_news }
+    p.form
+      input.input-group--left(type="text" placeholder="#{ public._data.footer.form.email_placeholder }")
+      button.button--primary.button-group--right() #{ public._data.footer.form.button_send }
+    hr
+    ul.clear.list-media--social.list--rest
+      li.icon--hover.g-medium--half.g-wide--1.theme--multi-device-layouts
+        a.themed(href="#")
+          span.icon-circle--large.themed--background
+            i.mdi.mdi-facebook
+      li.icon--hover.g-medium--half.g-wide--1.theme--user-input
+        a.themed(href="#")
+          span.icon-circle--large.themed--background
+            i.mdi.mdi-twitter
+      li.icon--hover.g-medium--half.g-wide--1.theme--introduction-to-media
+        a.themed(href="#")
+          span.icon-circle--large.themed--background
+            i.mdi.mdi-google-plus
+      li.icon--hover.g-medium--half.g-wide--1.theme--bitcoin.g-wide--last
+        a.themed(href="#")
+          span.icon-circle--large.themed--background
+            i.mdi.mdi-currency-btc
+    .color--gray-background
+      h4 #{ public._data.footer.rights }
