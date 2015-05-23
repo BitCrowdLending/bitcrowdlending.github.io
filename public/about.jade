@@ -1,7 +1,7 @@
 section#about.guides-section
   header.container
     h2.xxlarge About Us
-    p #{ public._data.about.about }
+    p #{ public._data.about.about.description }
 
   #about--text.container
     ul.list-guides-intro.list-centered.list--reset.clear
@@ -9,34 +9,32 @@ section#about.guides-section
         a.themed(href='#')
           span.icon-circle--large.themed--background
             i.mdi.mdi-currency-btc
-          h3.large.text-divider #{ public._data.about.feature1.title }
+          br
         p #{ public._data.about.feature1.description }
       li.g--third.theme--multi-device-layouts
         a.themed(href='#')
           span.icon-circle--large.themed--background
             i.mdi.mdi-currency-btc
-          h3.large.text-divider #{ public._data.about.feature2.title }
+          br
         p #{ public._data.about.feature2.description }
       li.g--third.theme--multi-device-layouts.g--last
         a.themed(href='#')
           span.icon-circle--large.themed--background
             i.mdi.mdi-currency-btc
-          h3.large.text-divider #{ public._data.about.feature3.title }
+          br
         p #{ public._data.about.feature3.description }
 
 section#highlight
   #highlight--left.highlight-module.highlight-module--left.highlight-module--learning
     .highlight-module__container
       .highlight-module__content.g-wide--push-1.g-wide--pull-1.g-medium--push-1
-        p.highlight-module__title
-          | #{ public._data.about.highlight1.title }
+        br
         p.highlight-module__text.large
           | #{ public._data.about.highlight1.description }
 
   #highlight--right.highlight-module.highlight-module--right.highlight-module--green
     .highlight-module__container
       .highlight-module__content.g-wide--push-1.g-wide--pull-1.g-medium--push-1.color--gray-background
-        p.highlight-module__title
-          | #{ public._data.about.highlight2.title }
+        br
         p.highlight-module__text.large
           | #{ public._data.about.highlight2.description }
