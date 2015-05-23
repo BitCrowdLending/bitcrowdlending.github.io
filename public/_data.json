@@ -9,7 +9,7 @@
         },
         "feature1": {
             "title": "Title",
-            "description": "CrowdBit is the future of Bitcoin lending and investments."
+            "description": "BitCrowdLending is the future of Bitcoin lending and investments."
         },
         "feature2": {
             "title": "Title",
@@ -31,7 +31,7 @@
     "team": {
         "title": "Team",
         "member": {
-            "jose": "Jose Carlos",
+            "jose": "Jose",
             "jeff": "Jeff",
             "ilyas": "Ilyas",
             "samuel": "Samuel",
@@ -45,6 +45,6 @@
             "email_placeholder": "email",
             "button_send": "Send"
         },
-        "rights": "(c) CrowdBit 2015. All Rights Reserved."
+        "rights": "(c) BitCrowdLending 2015. All Rights Reserved."
     }
 }
