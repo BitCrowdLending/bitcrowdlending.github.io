@@ -4,32 +4,32 @@
     },
     "about": {
         "about": {
-            "title": "Title",
-            "description": "P2P Bitcoin lending can be insecure and unstable."
+            "title": "",
+            "description": "BitCrowdLending is the future of Bitcoin lending and investments"
         },
         "feature1": {
-            "title": "Title",
-            "description": "BitCrowdLending is the future of Bitcoin lending and investments."
+            "title": "",
+            "description": "Bitcoin lending can be insecure and unstable"
         },
         "feature2": {
-            "title": "Title",
-            "description": "We are developing a secure and reliable platform that will allow confident lending and trading of Bitcoin."
+            "title": "",
+            "description": "We are developing a secure and reliable platform that will allow confident lending and trading of Bitcoin"
         },
         "feature3": {
-            "title": "Title",
-            "description": "We are marketing Bitcoin users who are seeking pooled investments, insurance investments, and in-house escrow accounts through bitcoin."
+            "title": "",
+            "description": "We are marketing Bitcoin users who are seeking pooled investments, insurance investments, and in-house escrow accounts through bitcoin"
         },
         "highlight1": {
-            "title": "Title",
-            "description": "We will blow our competition away with our focus on enhanced ID verification, superior rating system, and additional safety for investors, all while providing lower fees than others."
+            "title": "",
+            "description": "We will blow our competition away with our focus on enhanced ID verification, superior rating system, and additional safety for investors, all while providing lower fees than others"
         },
         "highlight2": {
-            "title": "Tile",
-            "description": "Our team will also develop additional features and services, like crypto exchange."
+            "title": "",
+            "description": "Our team will also develop additional features and services, like crypto exchange"
         }
     },
     "team": {
-        "title": "Team",
+        "title": "BitCrowdLending Team",
         "member": {
             "jose": "Jose",
             "jeff": "Jeff",
