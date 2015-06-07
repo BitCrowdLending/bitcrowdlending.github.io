@@ -6,9 +6,10 @@ footer#footer
     .color--gray-background
       h1 #{ public._data.footer.title }
       h3 #{ public._data.footer.receive_news }
-    p.form
-      input.input-group--left(type="text" placeholder="#{ public._data.footer.form.email_placeholder }")
-      button.button--primary.button-group--right() #{ public._data.footer.form.button_send }
+    form(action="//formspree.io/bitcrowdlending@gmail.com" method="POST")
+      p.form
+        input.input-group--left(type="email" name="email" required placeholder="#{ public._data.footer.form.email_placeholder }")
+        button.button--primary.button-group--right(type="submit") #{ public._data.footer.form.button_send }
     hr
     ul.clear.list-media--social.list--rest
       li.icon--hover.g-medium--half.g-wide--1.theme--multi-device-layouts
