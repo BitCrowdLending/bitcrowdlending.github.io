@@ -31,11 +31,18 @@
     "team": {
         "title": "BitCrowdLending Team",
         "member": {
-            "jose": "Jose",
-            "jeff": "Jeff",
-            "ilyas": "Ilyas",
-            "samuel": "Samuel",
-            "cesar": "Cesar"
+            "jose": {
+                "name": "Jose",
+                "description": "CEO"
+            },
+            "jeff": {
+                "name": "Jeff",
+                "description": "CTO"
+            },
+            "ilyas": {
+                "name": "Ilyas",
+                "description": "CFO"
+            }
         }
     },
     "footer": {
